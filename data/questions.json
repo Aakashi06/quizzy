@@ -1,0 +1,3833 @@
+{
+  "Motion": [
+    {
+      "question": "What does the slope of a distance\u2013time graph represent?",
+      "options": [
+        "Speed",
+        "Acceleration",
+        "Force",
+        "Mass"
+      ],
+      "correct_option": 0,
+      "explanation": "The slope shows distance travelled per unit time.",
+      "source_excerpt": "The slope shows distance travelled per unit time.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Motion",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the SI unit of acceleration?",
+      "options": [
+        "m/s",
+        "m/s\u00b2",
+        "km/h",
+        "N"
+      ],
+      "correct_option": 1,
+      "explanation": "Acceleration is the change in velocity per unit time.",
+      "source_excerpt": "Acceleration is the change in velocity per unit time.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Motion",
+      "difficulty": "medium"
+    },
+    {
+      "question": "A car travels 100 m in 5 s. What is its average speed?",
+      "options": [
+        "5 m/s",
+        "10 m/s",
+        "20 m/s",
+        "50 m/s"
+      ],
+      "correct_option": 2,
+      "explanation": "Average speed = distance / time = 100 / 5 = 20 m/s.",
+      "source_excerpt": "Average speed = distance / time = 100 / 5 = 20 m/s.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Motion",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which quantity includes a direction?",
+      "options": [
+        "Distance",
+        "Speed",
+        "Time",
+        "Velocity"
+      ],
+      "correct_option": 3,
+      "explanation": "Velocity describes speed in a specified direction.",
+      "source_excerpt": "Velocity describes speed in a specified direction.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Motion",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is displacement after completing one full lap of a circular track?",
+      "options": [
+        "Zero",
+        "Circumference",
+        "Radius",
+        "Diameter"
+      ],
+      "correct_option": 0,
+      "explanation": "Initial and final positions coincide, so displacement is zero.",
+      "source_excerpt": "Initial and final positions coincide, so displacement is zero.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Motion",
+      "difficulty": "medium"
+    },
+    {
+      "question": "A body changes velocity from 0 to 20 m/s in 4 s. Its acceleration is:",
+      "options": [
+        "80 m/s\u00b2",
+        "5 m/s\u00b2",
+        "16 m/s\u00b2",
+        "24 m/s\u00b2"
+      ],
+      "correct_option": 1,
+      "explanation": "a = (v \u2212 u) / t = 20 / 4 = 5 m/s\u00b2.",
+      "source_excerpt": "a = (v \u2212 u) / t = 20 / 4 = 5 m/s\u00b2.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Motion",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does the area under a velocity\u2013time graph give?",
+      "options": [
+        "Acceleration",
+        "Speed",
+        "Displacement",
+        "Mass"
+      ],
+      "correct_option": 2,
+      "explanation": "Velocity multiplied by time gives displacement.",
+      "source_excerpt": "Velocity multiplied by time gives displacement.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Motion",
+      "difficulty": "easy"
+    },
+    {
+      "question": "A body moves with constant velocity. Its acceleration is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Increasing",
+        "Zero"
+      ],
+      "correct_option": 3,
+      "explanation": "Constant velocity means there is no change in velocity.",
+      "source_excerpt": "Constant velocity means there is no change in velocity.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Motion",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which equation applies to uniformly accelerated motion?",
+      "options": [
+        "v = u + at",
+        "v = u / t",
+        "s = v + t",
+        "a = vt"
+      ],
+      "correct_option": 0,
+      "explanation": "For constant acceleration, final velocity equals initial velocity plus at.",
+      "source_excerpt": "For constant acceleration, final velocity equals initial velocity plus at.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Motion",
+      "difficulty": "hard"
+    },
+    {
+      "question": "A body starts from rest with acceleration 2 m/s\u00b2 for 3 s. Distance travelled is:",
+      "options": [
+        "6 m",
+        "9 m",
+        "12 m",
+        "18 m"
+      ],
+      "correct_option": 1,
+      "explanation": "s = ut + \u00bdat\u00b2 = 0 + \u00bd \u00d7 2 \u00d7 9 = 9 m.",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 0 + \u00bd \u00d7 2 \u00d7 9 = 9 m.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Motion",
+      "difficulty": "easy"
+    },
+    {
+      "question": "A cyclist covers 16 m in 4 s. What is the average speed?",
+      "options": [
+        "4 m/s",
+        "6 m/s",
+        "9 m/s",
+        "3 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 16 / 4 = 4 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 16 / 4 = 4 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 1 m/s to 13 m/s over 2 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "6 m/s\u00b2",
+        "8 m/s\u00b2",
+        "11 m/s\u00b2",
+        "5 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 2 = 6.00 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 2 = 6.00 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 1 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "12 m",
+        "14 m",
+        "17 m",
+        "11 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 1 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 12 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 1 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 12 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 20 m in 4 s. What is the average speed?",
+      "options": [
+        "5 m/s",
+        "7 m/s",
+        "10 m/s",
+        "4 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 20 / 4 = 5 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 20 / 4 = 5 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 2 m/s to 14 m/s over 3 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "4 m/s\u00b2",
+        "6 m/s\u00b2",
+        "9 m/s\u00b2",
+        "3 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 3 = 4.00 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 3 = 4.00 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 2 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "15 m",
+        "17 m",
+        "20 m",
+        "14 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 2 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 15 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 2 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 15 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 24 m in 4 s. What is the average speed?",
+      "options": [
+        "6 m/s",
+        "8 m/s",
+        "11 m/s",
+        "5 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 24 / 4 = 6 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 24 / 4 = 6 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 3 m/s to 15 m/s over 4 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "3 m/s\u00b2",
+        "5 m/s\u00b2",
+        "8 m/s\u00b2",
+        "2 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 4 = 3.00 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 4 = 3.00 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 3 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "18 m",
+        "20 m",
+        "23 m",
+        "17 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 3 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 18 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 3 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 18 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 28 m in 4 s. What is the average speed?",
+      "options": [
+        "7 m/s",
+        "9 m/s",
+        "12 m/s",
+        "6 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 28 / 4 = 7 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 28 / 4 = 7 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 4 m/s to 16 m/s over 5 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "2.4 m/s\u00b2",
+        "4.4 m/s\u00b2",
+        "7.4 m/s\u00b2",
+        "1.4 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 5 = 2.40 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 5 = 2.40 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 4 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "21 m",
+        "23 m",
+        "26 m",
+        "20 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 4 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 21 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 4 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 21 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 32 m in 4 s. What is the average speed?",
+      "options": [
+        "8 m/s",
+        "10 m/s",
+        "13 m/s",
+        "7 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 32 / 4 = 8 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 32 / 4 = 8 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 5 m/s to 17 m/s over 6 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "2 m/s\u00b2",
+        "4 m/s\u00b2",
+        "7 m/s\u00b2",
+        "1 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 6 = 2.00 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 6 = 2.00 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 5 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "24 m",
+        "26 m",
+        "29 m",
+        "23 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 5 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 24 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 5 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 24 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 36 m in 4 s. What is the average speed?",
+      "options": [
+        "9 m/s",
+        "11 m/s",
+        "14 m/s",
+        "8 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 36 / 4 = 9 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 36 / 4 = 9 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 6 m/s to 18 m/s over 7 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "1.71 m/s\u00b2",
+        "3.71 m/s\u00b2",
+        "6.71 m/s\u00b2",
+        "0.71 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 7 = 1.71 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 7 = 1.71 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 6 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "27 m",
+        "29 m",
+        "32 m",
+        "26 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 6 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 27 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 6 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 27 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 40 m in 4 s. What is the average speed?",
+      "options": [
+        "10 m/s",
+        "12 m/s",
+        "15 m/s",
+        "9 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 40 / 4 = 10 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 40 / 4 = 10 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 7 m/s to 19 m/s over 8 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "1.5 m/s\u00b2",
+        "3.5 m/s\u00b2",
+        "6.5 m/s\u00b2",
+        "0.5 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 8 = 1.50 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 8 = 1.50 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 7 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "30 m",
+        "32 m",
+        "35 m",
+        "29 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 7 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 30 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 7 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 30 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 44 m in 4 s. What is the average speed?",
+      "options": [
+        "11 m/s",
+        "13 m/s",
+        "16 m/s",
+        "10 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 44 / 4 = 11 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 44 / 4 = 11 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 8 m/s to 20 m/s over 9 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "1.33 m/s\u00b2",
+        "3.33 m/s\u00b2",
+        "6.33 m/s\u00b2",
+        "0.33 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 9 = 1.33 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 9 = 1.33 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 8 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "33 m",
+        "35 m",
+        "38 m",
+        "32 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 8 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 33 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 8 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 33 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 48 m in 4 s. What is the average speed?",
+      "options": [
+        "12 m/s",
+        "14 m/s",
+        "17 m/s",
+        "11 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 48 / 4 = 12 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 48 / 4 = 12 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 9 m/s to 21 m/s over 10 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "1.2 m/s\u00b2",
+        "3.2 m/s\u00b2",
+        "6.2 m/s\u00b2",
+        "0.2 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 10 = 1.20 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 10 = 1.20 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 9 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "36 m",
+        "38 m",
+        "41 m",
+        "35 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 9 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 36 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 9 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 36 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 52 m in 4 s. What is the average speed?",
+      "options": [
+        "13 m/s",
+        "15 m/s",
+        "18 m/s",
+        "12 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 52 / 4 = 13 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 52 / 4 = 13 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 10 m/s to 22 m/s over 11 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "1.09 m/s\u00b2",
+        "3.09 m/s\u00b2",
+        "6.09 m/s\u00b2",
+        "0.09 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 11 = 1.09 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 11 = 1.09 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 10 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "39 m",
+        "41 m",
+        "44 m",
+        "38 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 10 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 39 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 10 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 39 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 56 m in 4 s. What is the average speed?",
+      "options": [
+        "14 m/s",
+        "16 m/s",
+        "19 m/s",
+        "13 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 56 / 4 = 14 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 56 / 4 = 14 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 11 m/s to 23 m/s over 12 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "1 m/s\u00b2",
+        "3 m/s\u00b2",
+        "6 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 12 = 1.00 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 12 = 1.00 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 11 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "42 m",
+        "44 m",
+        "47 m",
+        "41 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 11 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 42 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 11 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 42 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 60 m in 4 s. What is the average speed?",
+      "options": [
+        "15 m/s",
+        "17 m/s",
+        "20 m/s",
+        "14 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 60 / 4 = 15 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 60 / 4 = 15 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 12 m/s to 24 m/s over 13 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.92 m/s\u00b2",
+        "2.92 m/s\u00b2",
+        "5.92 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 13 = 0.92 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 13 = 0.92 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 12 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "45 m",
+        "47 m",
+        "50 m",
+        "44 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 12 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 45 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 12 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 45 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 64 m in 4 s. What is the average speed?",
+      "options": [
+        "16 m/s",
+        "18 m/s",
+        "21 m/s",
+        "15 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 64 / 4 = 16 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 64 / 4 = 16 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 13 m/s to 25 m/s over 14 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.86 m/s\u00b2",
+        "2.86 m/s\u00b2",
+        "5.86 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 14 = 0.86 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 14 = 0.86 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 13 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "48 m",
+        "50 m",
+        "53 m",
+        "47 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 13 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 48 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 13 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 48 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 68 m in 4 s. What is the average speed?",
+      "options": [
+        "17 m/s",
+        "19 m/s",
+        "22 m/s",
+        "16 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 68 / 4 = 17 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 68 / 4 = 17 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 14 m/s to 26 m/s over 15 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.8 m/s\u00b2",
+        "2.8 m/s\u00b2",
+        "5.8 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 15 = 0.80 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 15 = 0.80 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 14 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "51 m",
+        "53 m",
+        "56 m",
+        "50 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 14 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 51 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 14 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 51 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 72 m in 4 s. What is the average speed?",
+      "options": [
+        "18 m/s",
+        "20 m/s",
+        "23 m/s",
+        "17 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 72 / 4 = 18 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 72 / 4 = 18 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 15 m/s to 27 m/s over 16 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.75 m/s\u00b2",
+        "2.75 m/s\u00b2",
+        "5.75 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 16 = 0.75 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 16 = 0.75 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 15 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "54 m",
+        "56 m",
+        "59 m",
+        "53 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 15 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 54 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 15 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 54 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 76 m in 4 s. What is the average speed?",
+      "options": [
+        "19 m/s",
+        "21 m/s",
+        "24 m/s",
+        "18 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 76 / 4 = 19 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 76 / 4 = 19 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 16 m/s to 28 m/s over 17 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.71 m/s\u00b2",
+        "2.71 m/s\u00b2",
+        "5.71 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 17 = 0.71 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 17 = 0.71 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 16 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "57 m",
+        "59 m",
+        "62 m",
+        "56 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 16 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 57 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 16 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 57 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 80 m in 4 s. What is the average speed?",
+      "options": [
+        "20 m/s",
+        "22 m/s",
+        "25 m/s",
+        "19 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 80 / 4 = 20 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 80 / 4 = 20 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 17 m/s to 29 m/s over 18 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.67 m/s\u00b2",
+        "2.67 m/s\u00b2",
+        "5.67 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 18 = 0.67 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 18 = 0.67 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 17 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "60 m",
+        "62 m",
+        "65 m",
+        "59 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 17 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 60 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 17 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 60 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 84 m in 4 s. What is the average speed?",
+      "options": [
+        "21 m/s",
+        "23 m/s",
+        "26 m/s",
+        "20 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 84 / 4 = 21 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 84 / 4 = 21 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 18 m/s to 30 m/s over 19 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.63 m/s\u00b2",
+        "2.63 m/s\u00b2",
+        "5.63 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 19 = 0.63 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 19 = 0.63 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 18 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "63 m",
+        "65 m",
+        "68 m",
+        "62 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 18 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 63 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 18 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 63 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 88 m in 4 s. What is the average speed?",
+      "options": [
+        "22 m/s",
+        "24 m/s",
+        "27 m/s",
+        "21 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 88 / 4 = 22 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 88 / 4 = 22 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 19 m/s to 31 m/s over 20 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.6 m/s\u00b2",
+        "2.6 m/s\u00b2",
+        "5.6 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 20 = 0.60 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 20 = 0.60 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 19 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "66 m",
+        "68 m",
+        "71 m",
+        "65 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 19 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 66 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 19 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 66 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 92 m in 4 s. What is the average speed?",
+      "options": [
+        "23 m/s",
+        "25 m/s",
+        "28 m/s",
+        "22 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 92 / 4 = 23 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 92 / 4 = 23 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 20 m/s to 32 m/s over 21 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.57 m/s\u00b2",
+        "2.57 m/s\u00b2",
+        "5.57 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 21 = 0.57 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 21 = 0.57 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 20 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "69 m",
+        "71 m",
+        "74 m",
+        "68 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 20 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 69 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 20 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 69 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 96 m in 4 s. What is the average speed?",
+      "options": [
+        "24 m/s",
+        "26 m/s",
+        "29 m/s",
+        "23 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 96 / 4 = 24 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 96 / 4 = 24 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 21 m/s to 33 m/s over 22 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.55 m/s\u00b2",
+        "2.55 m/s\u00b2",
+        "5.55 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 22 = 0.55 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 22 = 0.55 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 21 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "72 m",
+        "74 m",
+        "77 m",
+        "71 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 21 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 72 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 21 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 72 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 100 m in 4 s. What is the average speed?",
+      "options": [
+        "25 m/s",
+        "27 m/s",
+        "30 m/s",
+        "24 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 100 / 4 = 25 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 100 / 4 = 25 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 22 m/s to 34 m/s over 23 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.52 m/s\u00b2",
+        "2.52 m/s\u00b2",
+        "5.52 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 23 = 0.52 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 23 = 0.52 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 22 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "75 m",
+        "77 m",
+        "80 m",
+        "74 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 22 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 75 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 22 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 75 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 104 m in 4 s. What is the average speed?",
+      "options": [
+        "26 m/s",
+        "28 m/s",
+        "31 m/s",
+        "25 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 104 / 4 = 26 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 104 / 4 = 26 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 23 m/s to 35 m/s over 24 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.5 m/s\u00b2",
+        "2.5 m/s\u00b2",
+        "5.5 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 24 = 0.50 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 24 = 0.50 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 23 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "78 m",
+        "80 m",
+        "83 m",
+        "77 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 23 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 78 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 23 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 78 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 108 m in 4 s. What is the average speed?",
+      "options": [
+        "27 m/s",
+        "29 m/s",
+        "32 m/s",
+        "26 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 108 / 4 = 27 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 108 / 4 = 27 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 24 m/s to 36 m/s over 25 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.48 m/s\u00b2",
+        "2.48 m/s\u00b2",
+        "5.48 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 25 = 0.48 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 25 = 0.48 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 24 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "81 m",
+        "83 m",
+        "86 m",
+        "80 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 24 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 81 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 24 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 81 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cyclist covers 112 m in 4 s. What is the average speed?",
+      "options": [
+        "28 m/s",
+        "30 m/s",
+        "33 m/s",
+        "27 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Speed = distance / time = 112 / 4 = 28 m/s.",
+      "difficulty": "easy",
+      "topic": "Motion",
+      "source_excerpt": "Speed = distance / time = 112 / 4 = 28 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A cart speeds up from 25 m/s to 37 m/s over 26 s. What is its acceleration (rounded to two decimals)?",
+      "options": [
+        "0.46 m/s\u00b2",
+        "2.46 m/s\u00b2",
+        "5.46 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "Acceleration = (final \u2212 initial velocity) / time = 12 / 26 = 0.46 m/s\u00b2.",
+      "difficulty": "medium",
+      "topic": "Motion",
+      "source_excerpt": "Acceleration = (final \u2212 initial velocity) / time = 12 / 26 = 0.46 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A body starts at 25 m/s and accelerates uniformly at 2 m/s\u00b2 for 3 s. What distance does it travel?",
+      "options": [
+        "84 m",
+        "86 m",
+        "89 m",
+        "83 m"
+      ],
+      "correct_option": 0,
+      "explanation": "s = ut + \u00bdat\u00b2 = 25 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 84 m.",
+      "difficulty": "hard",
+      "topic": "Motion",
+      "source_excerpt": "s = ut + \u00bdat\u00b2 = 25 \u00d7 3 + \u00bd \u00d7 2 \u00d7 9 = 84 m.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    }
+  ],
+  "Force & laws of motion": [
+    {
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correct_option": 2,
+      "explanation": "Force is measured in newtons.",
+      "source_excerpt": "Force is measured in newtons.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Force & laws of motion",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which property resists a change in the state of motion?",
+      "options": [
+        "Speed",
+        "Pressure",
+        "Energy",
+        "Inertia"
+      ],
+      "correct_option": 3,
+      "explanation": "Inertia is the tendency to resist a change in rest or motion.",
+      "source_excerpt": "Inertia is the tendency to resist a change in rest or motion.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Force & laws of motion",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Momentum is calculated as:",
+      "options": [
+        "Mass \u00d7 velocity",
+        "Mass \u00d7 acceleration",
+        "Force \u00d7 distance",
+        "Speed / time"
+      ],
+      "correct_option": 0,
+      "explanation": "Momentum p equals mass m multiplied by velocity v.",
+      "source_excerpt": "Momentum p equals mass m multiplied by velocity v.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Force & laws of motion",
+      "difficulty": "hard"
+    },
+    {
+      "question": "A 2 kg object accelerates at 3 m/s\u00b2. The net force is:",
+      "options": [
+        "5 N",
+        "6 N",
+        "1.5 N",
+        "9 N"
+      ],
+      "correct_option": 1,
+      "explanation": "Newton\u2019s second law gives F = ma = 2 \u00d7 3 = 6 N.",
+      "source_excerpt": "Newton\u2019s second law gives F = ma = 2 \u00d7 3 = 6 N.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Force & laws of motion",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Action and reaction forces act on:",
+      "options": [
+        "The same body",
+        "No bodies",
+        "Different bodies",
+        "Only stationary bodies"
+      ],
+      "correct_option": 2,
+      "explanation": "Newton\u2019s third law describes equal and opposite forces on different bodies.",
+      "source_excerpt": "Newton\u2019s third law describes equal and opposite forces on different bodies.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Force & laws of motion",
+      "difficulty": "medium"
+    },
+    {
+      "question": "A passenger lurches forward when a bus stops suddenly because of:",
+      "options": [
+        "Gravity alone",
+        "Air resistance",
+        "Magnetism",
+        "Inertia of motion"
+      ],
+      "correct_option": 3,
+      "explanation": "The passenger\u2019s body tends to continue its previous motion.",
+      "source_excerpt": "The passenger\u2019s body tends to continue its previous motion.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Force & laws of motion",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which object has the greatest inertia?",
+      "options": [
+        "An object of mass 10 kg",
+        "An object of mass 1 kg",
+        "An object of mass 100 g",
+        "An object of mass 10 g"
+      ],
+      "correct_option": 0,
+      "explanation": "Mass measures inertia. The greatest mass has the greatest inertia.",
+      "source_excerpt": "Mass measures inertia. The greatest mass has the greatest inertia.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Force & laws of motion",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The momentum of a 3 kg body moving at 4 m/s is:",
+      "options": [
+        "7 kg m/s",
+        "12 kg m/s",
+        "1.33 kg m/s",
+        "16 kg m/s"
+      ],
+      "correct_option": 1,
+      "explanation": "p = mv = 3 \u00d7 4 = 12 kg m/s.",
+      "source_excerpt": "p = mv = 3 \u00d7 4 = 12 kg m/s.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Force & laws of motion",
+      "difficulty": "medium"
+    },
+    {
+      "question": "With no external net force, total momentum of a system is:",
+      "options": [
+        "Always zero",
+        "Increasing",
+        "Conserved",
+        "Decreasing"
+      ],
+      "correct_option": 2,
+      "explanation": "Total momentum remains constant in the absence of an external net force.",
+      "source_excerpt": "Total momentum remains constant in the absence of an external net force.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Force & laws of motion",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Balanced forces on a moving object cause:",
+      "options": [
+        "Increasing speed",
+        "Decreasing speed",
+        "Circular motion necessarily",
+        "No change in velocity"
+      ],
+      "correct_option": 3,
+      "explanation": "Balanced forces have zero net force and therefore produce no acceleration.",
+      "source_excerpt": "Balanced forces have zero net force and therefore produce no acceleration.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Force & laws of motion",
+      "difficulty": "easy"
+    },
+    {
+      "question": "A 2 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "6 N",
+        "8 N",
+        "11 N",
+        "5 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 2 \u00d7 3 = 6 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 2 \u00d7 3 = 6 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 3 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "12 kg m/s",
+        "14 kg m/s",
+        "17 kg m/s",
+        "11 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 3 \u00d7 4 = 12 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 3 \u00d7 4 = 12 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 2 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 2 \u00d7 6 = 4 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 2 \u00d7 6 = 4 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 3 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "9 N",
+        "11 N",
+        "14 N",
+        "8 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 3 \u00d7 3 = 9 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 3 \u00d7 3 = 9 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 4 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "16 kg m/s",
+        "18 kg m/s",
+        "21 kg m/s",
+        "15 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 4 \u00d7 4 = 16 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 4 \u00d7 4 = 16 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 3 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 3 \u00d7 6 = 6 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 3 \u00d7 6 = 6 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 4 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "12 N",
+        "14 N",
+        "17 N",
+        "11 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 4 \u00d7 3 = 12 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 4 \u00d7 3 = 12 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 5 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "20 kg m/s",
+        "22 kg m/s",
+        "25 kg m/s",
+        "19 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 5 \u00d7 4 = 20 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 5 \u00d7 4 = 20 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 4 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 4 \u00d7 6 = 8 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 4 \u00d7 6 = 8 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 5 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "15 N",
+        "17 N",
+        "20 N",
+        "14 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 5 \u00d7 3 = 15 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 5 \u00d7 3 = 15 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 6 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "24 kg m/s",
+        "26 kg m/s",
+        "29 kg m/s",
+        "23 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 6 \u00d7 4 = 24 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 6 \u00d7 4 = 24 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 5 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 5 \u00d7 6 = 10 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 5 \u00d7 6 = 10 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 6 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "18 N",
+        "20 N",
+        "23 N",
+        "17 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 6 \u00d7 3 = 18 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 6 \u00d7 3 = 18 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 7 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "28 kg m/s",
+        "30 kg m/s",
+        "33 kg m/s",
+        "27 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 7 \u00d7 4 = 28 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 7 \u00d7 4 = 28 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 6 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 6 \u00d7 6 = 12 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 6 \u00d7 6 = 12 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 7 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "21 N",
+        "23 N",
+        "26 N",
+        "20 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 7 \u00d7 3 = 21 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 7 \u00d7 3 = 21 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 8 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "32 kg m/s",
+        "34 kg m/s",
+        "37 kg m/s",
+        "31 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 8 \u00d7 4 = 32 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 8 \u00d7 4 = 32 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 7 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 7 \u00d7 6 = 14 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 7 \u00d7 6 = 14 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 8 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "24 N",
+        "26 N",
+        "29 N",
+        "23 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 8 \u00d7 3 = 24 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 8 \u00d7 3 = 24 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 9 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "36 kg m/s",
+        "38 kg m/s",
+        "41 kg m/s",
+        "35 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 9 \u00d7 4 = 36 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 9 \u00d7 4 = 36 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 8 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 8 \u00d7 6 = 16 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 8 \u00d7 6 = 16 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 9 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "27 N",
+        "29 N",
+        "32 N",
+        "26 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 9 \u00d7 3 = 27 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 9 \u00d7 3 = 27 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 10 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "40 kg m/s",
+        "42 kg m/s",
+        "45 kg m/s",
+        "39 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 10 \u00d7 4 = 40 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 10 \u00d7 4 = 40 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 9 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 9 \u00d7 6 = 18 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 9 \u00d7 6 = 18 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 10 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "30 N",
+        "32 N",
+        "35 N",
+        "29 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 10 \u00d7 3 = 30 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 10 \u00d7 3 = 30 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 11 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "44 kg m/s",
+        "46 kg m/s",
+        "49 kg m/s",
+        "43 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 11 \u00d7 4 = 44 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 11 \u00d7 4 = 44 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 10 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 10 \u00d7 6 = 20 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 10 \u00d7 6 = 20 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 11 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "33 N",
+        "35 N",
+        "38 N",
+        "32 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 11 \u00d7 3 = 33 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 11 \u00d7 3 = 33 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 12 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "48 kg m/s",
+        "50 kg m/s",
+        "53 kg m/s",
+        "47 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 12 \u00d7 4 = 48 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 12 \u00d7 4 = 48 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 11 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 11 \u00d7 6 = 22 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 11 \u00d7 6 = 22 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 12 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "36 N",
+        "38 N",
+        "41 N",
+        "35 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 12 \u00d7 3 = 36 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 12 \u00d7 3 = 36 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 13 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "52 kg m/s",
+        "54 kg m/s",
+        "57 kg m/s",
+        "51 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 13 \u00d7 4 = 52 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 13 \u00d7 4 = 52 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 12 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 12 \u00d7 6 = 24 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 12 \u00d7 6 = 24 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 13 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "39 N",
+        "41 N",
+        "44 N",
+        "38 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 13 \u00d7 3 = 39 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 13 \u00d7 3 = 39 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 14 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "56 kg m/s",
+        "58 kg m/s",
+        "61 kg m/s",
+        "55 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 14 \u00d7 4 = 56 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 14 \u00d7 4 = 56 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 13 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 13 \u00d7 6 = 26 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 13 \u00d7 6 = 26 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 14 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "42 N",
+        "44 N",
+        "47 N",
+        "41 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 14 \u00d7 3 = 42 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 14 \u00d7 3 = 42 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 15 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "60 kg m/s",
+        "62 kg m/s",
+        "65 kg m/s",
+        "59 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 15 \u00d7 4 = 60 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 15 \u00d7 4 = 60 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 14 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 14 \u00d7 6 = 28 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 14 \u00d7 6 = 28 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 15 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "45 N",
+        "47 N",
+        "50 N",
+        "44 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 15 \u00d7 3 = 45 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 15 \u00d7 3 = 45 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 16 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "64 kg m/s",
+        "66 kg m/s",
+        "69 kg m/s",
+        "63 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 16 \u00d7 4 = 64 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 16 \u00d7 4 = 64 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 15 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 15 \u00d7 6 = 30 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 15 \u00d7 6 = 30 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 16 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "48 N",
+        "50 N",
+        "53 N",
+        "47 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 16 \u00d7 3 = 48 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 16 \u00d7 3 = 48 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 17 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "68 kg m/s",
+        "70 kg m/s",
+        "73 kg m/s",
+        "67 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 17 \u00d7 4 = 68 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 17 \u00d7 4 = 68 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 16 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 16 \u00d7 6 = 32 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 16 \u00d7 6 = 32 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 17 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "51 N",
+        "53 N",
+        "56 N",
+        "50 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 17 \u00d7 3 = 51 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 17 \u00d7 3 = 51 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 18 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "72 kg m/s",
+        "74 kg m/s",
+        "77 kg m/s",
+        "71 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 18 \u00d7 4 = 72 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 18 \u00d7 4 = 72 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 17 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 17 \u00d7 6 = 34 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 17 \u00d7 6 = 34 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 18 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "54 N",
+        "56 N",
+        "59 N",
+        "53 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 18 \u00d7 3 = 54 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 18 \u00d7 3 = 54 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 19 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "76 kg m/s",
+        "78 kg m/s",
+        "81 kg m/s",
+        "75 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 19 \u00d7 4 = 76 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 19 \u00d7 4 = 76 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 18 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 18 \u00d7 6 = 36 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 18 \u00d7 6 = 36 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 19 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "57 N",
+        "59 N",
+        "62 N",
+        "56 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 19 \u00d7 3 = 57 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 19 \u00d7 3 = 57 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 20 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "80 kg m/s",
+        "82 kg m/s",
+        "85 kg m/s",
+        "79 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 20 \u00d7 4 = 80 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 20 \u00d7 4 = 80 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 19 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 19 \u00d7 6 = 38 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 19 \u00d7 6 = 38 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 20 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "60 N",
+        "62 N",
+        "65 N",
+        "59 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 20 \u00d7 3 = 60 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 20 \u00d7 3 = 60 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 21 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "84 kg m/s",
+        "86 kg m/s",
+        "89 kg m/s",
+        "83 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 21 \u00d7 4 = 84 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 21 \u00d7 4 = 84 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 20 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 20 \u00d7 6 = 40 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 20 \u00d7 6 = 40 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 21 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "63 N",
+        "65 N",
+        "68 N",
+        "62 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 21 \u00d7 3 = 63 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 21 \u00d7 3 = 63 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 22 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "88 kg m/s",
+        "90 kg m/s",
+        "93 kg m/s",
+        "87 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 22 \u00d7 4 = 88 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 22 \u00d7 4 = 88 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 21 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 21 \u00d7 6 = 42 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 21 \u00d7 6 = 42 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 22 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "66 N",
+        "68 N",
+        "71 N",
+        "65 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 22 \u00d7 3 = 66 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 22 \u00d7 3 = 66 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 23 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "92 kg m/s",
+        "94 kg m/s",
+        "97 kg m/s",
+        "91 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 23 \u00d7 4 = 92 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 23 \u00d7 4 = 92 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 22 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 22 \u00d7 6 = 44 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 22 \u00d7 6 = 44 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 23 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "69 N",
+        "71 N",
+        "74 N",
+        "68 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 23 \u00d7 3 = 69 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 23 \u00d7 3 = 69 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 24 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "96 kg m/s",
+        "98 kg m/s",
+        "101 kg m/s",
+        "95 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 24 \u00d7 4 = 96 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 24 \u00d7 4 = 96 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 23 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 23 \u00d7 6 = 46 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 23 \u00d7 6 = 46 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 24 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "72 N",
+        "74 N",
+        "77 N",
+        "71 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 24 \u00d7 3 = 72 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 24 \u00d7 3 = 72 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 25 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "100 kg m/s",
+        "102 kg m/s",
+        "105 kg m/s",
+        "99 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 25 \u00d7 4 = 100 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 25 \u00d7 4 = 100 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 24 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 24 \u00d7 6 = 48 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 24 \u00d7 6 = 48 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 25 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "75 N",
+        "77 N",
+        "80 N",
+        "74 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 25 \u00d7 3 = 75 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 25 \u00d7 3 = 75 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 26 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "104 kg m/s",
+        "106 kg m/s",
+        "109 kg m/s",
+        "103 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 26 \u00d7 4 = 104 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 26 \u00d7 4 = 104 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 25 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 25 \u00d7 6 = 50 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 25 \u00d7 6 = 50 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 26 kg object has acceleration 3 m/s\u00b2. What is the net force?",
+      "options": [
+        "78 N",
+        "80 N",
+        "83 N",
+        "77 N"
+      ],
+      "correct_option": 0,
+      "explanation": "F = ma = 26 \u00d7 3 = 78 N.",
+      "difficulty": "easy",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "F = ma = 26 \u00d7 3 = 78 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 27 kg trolley moves at 4 m/s. What is its momentum?",
+      "options": [
+        "108 kg m/s",
+        "110 kg m/s",
+        "113 kg m/s",
+        "107 kg m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "p = mv = 27 \u00d7 4 = 108 kg m/s.",
+      "difficulty": "medium",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "p = mv = 27 \u00d7 4 = 108 kg m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A 26 kg trolley at 6 m/s sticks to an identical stationary trolley. With no external force, what is their common velocity?",
+      "options": [
+        "3 m/s",
+        "5 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "Conservation of momentum: 26 \u00d7 6 = 52 \u00d7 v, so v = 3 m/s.",
+      "difficulty": "hard",
+      "topic": "Force & laws of motion",
+      "source_excerpt": "Conservation of momentum: 26 \u00d7 6 = 52 \u00d7 v, so v = 3 m/s.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    }
+  ],
+  "Gravitation": [
+    {
+      "question": "The gravitational force between two masses is:",
+      "options": [
+        "Always attractive",
+        "Always repulsive",
+        "Sometimes zero in a vacuum",
+        "Independent of mass"
+      ],
+      "correct_option": 0,
+      "explanation": "Gravity attracts objects with mass.",
+      "source_excerpt": "Gravity attracts objects with mass.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Gravitation",
+      "difficulty": "easy"
+    },
+    {
+      "question": "If the distance between two masses doubles, gravitational force becomes:",
+      "options": [
+        "Twice as large",
+        "One quarter",
+        "Half",
+        "Four times as large"
+      ],
+      "correct_option": 1,
+      "explanation": "Force is inversely proportional to the square of distance.",
+      "source_excerpt": "Force is inversely proportional to the square of distance.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Gravitation",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Weight is calculated as:",
+      "options": [
+        "m / g",
+        "m + g",
+        "mg",
+        "g / m"
+      ],
+      "correct_option": 2,
+      "explanation": "Weight is the gravitational force on a body: W = mg.",
+      "source_excerpt": "Weight is the gravitational force on a body: W = mg.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Gravitation",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which remains constant when an object moves from Earth to the Moon?",
+      "options": [
+        "Weight",
+        "Gravitational acceleration",
+        "Gravitational force",
+        "Mass"
+      ],
+      "correct_option": 3,
+      "explanation": "Mass is the amount of matter and does not depend on location.",
+      "source_excerpt": "Mass is the amount of matter and does not depend on location.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Gravitation",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Approximate acceleration due to gravity near Earth\u2019s surface is:",
+      "options": [
+        "9.8 m/s\u00b2",
+        "98 m/s\u00b2",
+        "0.98 m/s\u00b2",
+        "9.8 m/s"
+      ],
+      "correct_option": 0,
+      "explanation": "The usual near-surface value of g is approximately 9.8 m/s\u00b2.",
+      "source_excerpt": "The usual near-surface value of g is approximately 9.8 m/s\u00b2.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Gravitation",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In free fall without air resistance, objects accelerate:",
+      "options": [
+        "According to their colour",
+        "At the same rate at the same location",
+        "Only if heavy",
+        "At zero acceleration"
+      ],
+      "correct_option": 1,
+      "explanation": "Gravitational acceleration is independent of the falling object\u2019s mass.",
+      "source_excerpt": "Gravitational acceleration is independent of the falling object\u2019s mass.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Gravitation",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The SI unit of weight is:",
+      "options": [
+        "Kilogram",
+        "Metre",
+        "Newton",
+        "Second"
+      ],
+      "correct_option": 2,
+      "explanation": "Weight is a force and is measured in newtons.",
+      "source_excerpt": "Weight is a force and is measured in newtons.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Gravitation",
+      "difficulty": "easy"
+    },
+    {
+      "question": "A 10 kg object has weight on Earth of approximately:",
+      "options": [
+        "10 N",
+        "9.8 N",
+        "980 N",
+        "98 N"
+      ],
+      "correct_option": 3,
+      "explanation": "W = mg = 10 \u00d7 9.8 = 98 N.",
+      "source_excerpt": "W = mg = 10 \u00d7 9.8 = 98 N.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Gravitation",
+      "difficulty": "medium"
+    },
+    {
+      "question": "An object immersed in a fluid experiences an upward force called:",
+      "options": [
+        "Buoyant force",
+        "Friction only",
+        "Tension",
+        "Centripetal force"
+      ],
+      "correct_option": 0,
+      "explanation": "A fluid exerts an upward buoyant force on an immersed body.",
+      "source_excerpt": "A fluid exerts an upward buoyant force on an immersed body.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Gravitation",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Pressure is defined as:",
+      "options": [
+        "Area / force",
+        "Force / area",
+        "Mass \u00d7 volume",
+        "Force \u00d7 area"
+      ],
+      "correct_option": 1,
+      "explanation": "Pressure equals the normal force acting per unit area.",
+      "source_excerpt": "Pressure equals the normal force acting per unit area.",
+      "source_reference": "Quizzy curated Class 9 Science library",
+      "topic": "Gravitation",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 3 kg?",
+      "options": [
+        "30 N",
+        "32 N",
+        "35 N",
+        "29 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 3 \u00d7 10 = 30 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 3 \u00d7 10 = 30 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 4 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "1 N",
+        "3 N",
+        "6 N",
+        "0 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 4 / 4 = 1 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 4 / 4 = 1 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 1 times Earth\u2019s mass and 1 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "10 m/s\u00b2",
+        "12 m/s\u00b2",
+        "15 m/s\u00b2",
+        "9 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 1/1\u00b2 = 1/1. So g = 10/1 = 10.00 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 1/1\u00b2 = 1/1. So g = 10/1 = 10.00 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 4 kg?",
+      "options": [
+        "40 N",
+        "42 N",
+        "45 N",
+        "39 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 4 \u00d7 10 = 40 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 4 \u00d7 10 = 40 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 8 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "2 N",
+        "4 N",
+        "7 N",
+        "1 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 8 / 4 = 2 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 8 / 4 = 2 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 2 times Earth\u2019s mass and 2 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "5 m/s\u00b2",
+        "7 m/s\u00b2",
+        "10 m/s\u00b2",
+        "4 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 2/2\u00b2 = 1/2. So g = 10/2 = 5.00 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 2/2\u00b2 = 1/2. So g = 10/2 = 5.00 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 5 kg?",
+      "options": [
+        "50 N",
+        "52 N",
+        "55 N",
+        "49 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 5 \u00d7 10 = 50 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 5 \u00d7 10 = 50 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 12 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "3 N",
+        "5 N",
+        "8 N",
+        "2 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 12 / 4 = 3 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 12 / 4 = 3 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 3 times Earth\u2019s mass and 3 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "3.33 m/s\u00b2",
+        "5.33 m/s\u00b2",
+        "8.33 m/s\u00b2",
+        "2.33 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 3/3\u00b2 = 1/3. So g = 10/3 = 3.33 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 3/3\u00b2 = 1/3. So g = 10/3 = 3.33 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 6 kg?",
+      "options": [
+        "60 N",
+        "62 N",
+        "65 N",
+        "59 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 6 \u00d7 10 = 60 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 6 \u00d7 10 = 60 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 16 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "4 N",
+        "6 N",
+        "9 N",
+        "3 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 16 / 4 = 4 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 16 / 4 = 4 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 4 times Earth\u2019s mass and 4 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "2.5 m/s\u00b2",
+        "4.5 m/s\u00b2",
+        "7.5 m/s\u00b2",
+        "1.5 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 4/4\u00b2 = 1/4. So g = 10/4 = 2.50 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 4/4\u00b2 = 1/4. So g = 10/4 = 2.50 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 7 kg?",
+      "options": [
+        "70 N",
+        "72 N",
+        "75 N",
+        "69 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 7 \u00d7 10 = 70 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 7 \u00d7 10 = 70 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 20 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "5 N",
+        "7 N",
+        "10 N",
+        "4 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 20 / 4 = 5 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 20 / 4 = 5 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 5 times Earth\u2019s mass and 5 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "2 m/s\u00b2",
+        "4 m/s\u00b2",
+        "7 m/s\u00b2",
+        "1 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 5/5\u00b2 = 1/5. So g = 10/5 = 2.00 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 5/5\u00b2 = 1/5. So g = 10/5 = 2.00 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 8 kg?",
+      "options": [
+        "80 N",
+        "82 N",
+        "85 N",
+        "79 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 8 \u00d7 10 = 80 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 8 \u00d7 10 = 80 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 24 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "6 N",
+        "8 N",
+        "11 N",
+        "5 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 24 / 4 = 6 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 24 / 4 = 6 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 6 times Earth\u2019s mass and 6 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "1.67 m/s\u00b2",
+        "3.67 m/s\u00b2",
+        "6.67 m/s\u00b2",
+        "0.67 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 6/6\u00b2 = 1/6. So g = 10/6 = 1.67 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 6/6\u00b2 = 1/6. So g = 10/6 = 1.67 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 9 kg?",
+      "options": [
+        "90 N",
+        "92 N",
+        "95 N",
+        "89 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 9 \u00d7 10 = 90 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 9 \u00d7 10 = 90 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 28 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "7 N",
+        "9 N",
+        "12 N",
+        "6 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 28 / 4 = 7 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 28 / 4 = 7 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 7 times Earth\u2019s mass and 7 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "1.43 m/s\u00b2",
+        "3.43 m/s\u00b2",
+        "6.43 m/s\u00b2",
+        "0.43 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 7/7\u00b2 = 1/7. So g = 10/7 = 1.43 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 7/7\u00b2 = 1/7. So g = 10/7 = 1.43 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 10 kg?",
+      "options": [
+        "100 N",
+        "102 N",
+        "105 N",
+        "99 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 10 \u00d7 10 = 100 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 10 \u00d7 10 = 100 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 32 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "8 N",
+        "10 N",
+        "13 N",
+        "7 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 32 / 4 = 8 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 32 / 4 = 8 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 8 times Earth\u2019s mass and 8 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "1.25 m/s\u00b2",
+        "3.25 m/s\u00b2",
+        "6.25 m/s\u00b2",
+        "0.25 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 8/8\u00b2 = 1/8. So g = 10/8 = 1.25 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 8/8\u00b2 = 1/8. So g = 10/8 = 1.25 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 11 kg?",
+      "options": [
+        "110 N",
+        "112 N",
+        "115 N",
+        "109 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 11 \u00d7 10 = 110 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 11 \u00d7 10 = 110 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 36 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "9 N",
+        "11 N",
+        "14 N",
+        "8 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 36 / 4 = 9 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 36 / 4 = 9 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 9 times Earth\u2019s mass and 9 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "1.11 m/s\u00b2",
+        "3.11 m/s\u00b2",
+        "6.11 m/s\u00b2",
+        "0.11 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 9/9\u00b2 = 1/9. So g = 10/9 = 1.11 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 9/9\u00b2 = 1/9. So g = 10/9 = 1.11 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 12 kg?",
+      "options": [
+        "120 N",
+        "122 N",
+        "125 N",
+        "119 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 12 \u00d7 10 = 120 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 12 \u00d7 10 = 120 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 40 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "10 N",
+        "12 N",
+        "15 N",
+        "9 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 40 / 4 = 10 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 40 / 4 = 10 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 10 times Earth\u2019s mass and 10 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "1 m/s\u00b2",
+        "3 m/s\u00b2",
+        "6 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 10/10\u00b2 = 1/10. So g = 10/10 = 1.00 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 10/10\u00b2 = 1/10. So g = 10/10 = 1.00 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 13 kg?",
+      "options": [
+        "130 N",
+        "132 N",
+        "135 N",
+        "129 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 13 \u00d7 10 = 130 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 13 \u00d7 10 = 130 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 44 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "11 N",
+        "13 N",
+        "16 N",
+        "10 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 44 / 4 = 11 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 44 / 4 = 11 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 11 times Earth\u2019s mass and 11 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.91 m/s\u00b2",
+        "2.91 m/s\u00b2",
+        "5.91 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 11/11\u00b2 = 1/11. So g = 10/11 = 0.91 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 11/11\u00b2 = 1/11. So g = 10/11 = 0.91 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 14 kg?",
+      "options": [
+        "140 N",
+        "142 N",
+        "145 N",
+        "139 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 14 \u00d7 10 = 140 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 14 \u00d7 10 = 140 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 48 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "12 N",
+        "14 N",
+        "17 N",
+        "11 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 48 / 4 = 12 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 48 / 4 = 12 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 12 times Earth\u2019s mass and 12 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.83 m/s\u00b2",
+        "2.83 m/s\u00b2",
+        "5.83 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 12/12\u00b2 = 1/12. So g = 10/12 = 0.83 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 12/12\u00b2 = 1/12. So g = 10/12 = 0.83 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 15 kg?",
+      "options": [
+        "150 N",
+        "152 N",
+        "155 N",
+        "149 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 15 \u00d7 10 = 150 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 15 \u00d7 10 = 150 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 52 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "13 N",
+        "15 N",
+        "18 N",
+        "12 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 52 / 4 = 13 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 52 / 4 = 13 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 13 times Earth\u2019s mass and 13 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.77 m/s\u00b2",
+        "2.77 m/s\u00b2",
+        "5.77 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 13/13\u00b2 = 1/13. So g = 10/13 = 0.77 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 13/13\u00b2 = 1/13. So g = 10/13 = 0.77 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 16 kg?",
+      "options": [
+        "160 N",
+        "162 N",
+        "165 N",
+        "159 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 16 \u00d7 10 = 160 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 16 \u00d7 10 = 160 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 56 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "14 N",
+        "16 N",
+        "19 N",
+        "13 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 56 / 4 = 14 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 56 / 4 = 14 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 14 times Earth\u2019s mass and 14 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.71 m/s\u00b2",
+        "2.71 m/s\u00b2",
+        "5.71 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 14/14\u00b2 = 1/14. So g = 10/14 = 0.71 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 14/14\u00b2 = 1/14. So g = 10/14 = 0.71 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 17 kg?",
+      "options": [
+        "170 N",
+        "172 N",
+        "175 N",
+        "169 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 17 \u00d7 10 = 170 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 17 \u00d7 10 = 170 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 60 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "15 N",
+        "17 N",
+        "20 N",
+        "14 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 60 / 4 = 15 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 60 / 4 = 15 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 15 times Earth\u2019s mass and 15 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.67 m/s\u00b2",
+        "2.67 m/s\u00b2",
+        "5.67 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 15/15\u00b2 = 1/15. So g = 10/15 = 0.67 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 15/15\u00b2 = 1/15. So g = 10/15 = 0.67 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 18 kg?",
+      "options": [
+        "180 N",
+        "182 N",
+        "185 N",
+        "179 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 18 \u00d7 10 = 180 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 18 \u00d7 10 = 180 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 64 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "16 N",
+        "18 N",
+        "21 N",
+        "15 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 64 / 4 = 16 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 64 / 4 = 16 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 16 times Earth\u2019s mass and 16 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.62 m/s\u00b2",
+        "2.62 m/s\u00b2",
+        "5.62 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 16/16\u00b2 = 1/16. So g = 10/16 = 0.62 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 16/16\u00b2 = 1/16. So g = 10/16 = 0.62 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 19 kg?",
+      "options": [
+        "190 N",
+        "192 N",
+        "195 N",
+        "189 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 19 \u00d7 10 = 190 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 19 \u00d7 10 = 190 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 68 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "17 N",
+        "19 N",
+        "22 N",
+        "16 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 68 / 4 = 17 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 68 / 4 = 17 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 17 times Earth\u2019s mass and 17 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.59 m/s\u00b2",
+        "2.59 m/s\u00b2",
+        "5.59 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 17/17\u00b2 = 1/17. So g = 10/17 = 0.59 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 17/17\u00b2 = 1/17. So g = 10/17 = 0.59 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 20 kg?",
+      "options": [
+        "200 N",
+        "202 N",
+        "205 N",
+        "199 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 20 \u00d7 10 = 200 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 20 \u00d7 10 = 200 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 72 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "18 N",
+        "20 N",
+        "23 N",
+        "17 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 72 / 4 = 18 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 72 / 4 = 18 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 18 times Earth\u2019s mass and 18 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.56 m/s\u00b2",
+        "2.56 m/s\u00b2",
+        "5.56 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 18/18\u00b2 = 1/18. So g = 10/18 = 0.56 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 18/18\u00b2 = 1/18. So g = 10/18 = 0.56 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 21 kg?",
+      "options": [
+        "210 N",
+        "212 N",
+        "215 N",
+        "209 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 21 \u00d7 10 = 210 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 21 \u00d7 10 = 210 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 76 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "19 N",
+        "21 N",
+        "24 N",
+        "18 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 76 / 4 = 19 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 76 / 4 = 19 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 19 times Earth\u2019s mass and 19 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.53 m/s\u00b2",
+        "2.53 m/s\u00b2",
+        "5.53 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 19/19\u00b2 = 1/19. So g = 10/19 = 0.53 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 19/19\u00b2 = 1/19. So g = 10/19 = 0.53 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 22 kg?",
+      "options": [
+        "220 N",
+        "222 N",
+        "225 N",
+        "219 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 22 \u00d7 10 = 220 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 22 \u00d7 10 = 220 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 80 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "20 N",
+        "22 N",
+        "25 N",
+        "19 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 80 / 4 = 20 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 80 / 4 = 20 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 20 times Earth\u2019s mass and 20 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.5 m/s\u00b2",
+        "2.5 m/s\u00b2",
+        "5.5 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 20/20\u00b2 = 1/20. So g = 10/20 = 0.50 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 20/20\u00b2 = 1/20. So g = 10/20 = 0.50 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 23 kg?",
+      "options": [
+        "230 N",
+        "232 N",
+        "235 N",
+        "229 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 23 \u00d7 10 = 230 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 23 \u00d7 10 = 230 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 84 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "21 N",
+        "23 N",
+        "26 N",
+        "20 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 84 / 4 = 21 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 84 / 4 = 21 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 21 times Earth\u2019s mass and 21 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.48 m/s\u00b2",
+        "2.48 m/s\u00b2",
+        "5.48 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 21/21\u00b2 = 1/21. So g = 10/21 = 0.48 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 21/21\u00b2 = 1/21. So g = 10/21 = 0.48 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 24 kg?",
+      "options": [
+        "240 N",
+        "242 N",
+        "245 N",
+        "239 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 24 \u00d7 10 = 240 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 24 \u00d7 10 = 240 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 88 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "22 N",
+        "24 N",
+        "27 N",
+        "21 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 88 / 4 = 22 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 88 / 4 = 22 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 22 times Earth\u2019s mass and 22 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.45 m/s\u00b2",
+        "2.45 m/s\u00b2",
+        "5.45 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 22/22\u00b2 = 1/22. So g = 10/22 = 0.45 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 22/22\u00b2 = 1/22. So g = 10/22 = 0.45 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 25 kg?",
+      "options": [
+        "250 N",
+        "252 N",
+        "255 N",
+        "249 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 25 \u00d7 10 = 250 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 25 \u00d7 10 = 250 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 92 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "23 N",
+        "25 N",
+        "28 N",
+        "22 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 92 / 4 = 23 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 92 / 4 = 23 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 23 times Earth\u2019s mass and 23 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.43 m/s\u00b2",
+        "2.43 m/s\u00b2",
+        "5.43 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 23/23\u00b2 = 1/23. So g = 10/23 = 0.43 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 23/23\u00b2 = 1/23. So g = 10/23 = 0.43 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 26 kg?",
+      "options": [
+        "260 N",
+        "262 N",
+        "265 N",
+        "259 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 26 \u00d7 10 = 260 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 26 \u00d7 10 = 260 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 96 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "24 N",
+        "26 N",
+        "29 N",
+        "23 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 96 / 4 = 24 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 96 / 4 = 24 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 24 times Earth\u2019s mass and 24 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.42 m/s\u00b2",
+        "2.42 m/s\u00b2",
+        "5.42 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 24/24\u00b2 = 1/24. So g = 10/24 = 0.42 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 24/24\u00b2 = 1/24. So g = 10/24 = 0.42 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "Using g = 10 m/s\u00b2, what is the weight of an object of mass 27 kg?",
+      "options": [
+        "270 N",
+        "272 N",
+        "275 N",
+        "269 N"
+      ],
+      "correct_option": 0,
+      "explanation": "W = mg = 27 \u00d7 10 = 270 N.",
+      "difficulty": "easy",
+      "topic": "Gravitation",
+      "source_excerpt": "W = mg = 27 \u00d7 10 = 270 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "The gravitational force between two objects is 100 N. If their separation doubles, with masses unchanged, what is the new force?",
+      "options": [
+        "25 N",
+        "27 N",
+        "30 N",
+        "24 N"
+      ],
+      "correct_option": 0,
+      "explanation": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 100 / 4 = 25 N.",
+      "difficulty": "medium",
+      "topic": "Gravitation",
+      "source_excerpt": "Force varies as 1/r\u00b2. Doubling r divides force by 4: 100 / 4 = 25 N.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    },
+    {
+      "question": "A planet has 25 times Earth\u2019s mass and 25 times its radius. If Earth\u2019s g is 10 m/s\u00b2, what is surface gravity on the planet (rounded to two decimals)?",
+      "options": [
+        "0.4 m/s\u00b2",
+        "2.4 m/s\u00b2",
+        "5.4 m/s\u00b2",
+        "0 m/s\u00b2"
+      ],
+      "correct_option": 0,
+      "explanation": "g = GM/R\u00b2; relative gravity is 25/25\u00b2 = 1/25. So g = 10/25 = 0.40 m/s\u00b2.",
+      "difficulty": "hard",
+      "topic": "Gravitation",
+      "source_excerpt": "g = GM/R\u00b2; relative gravity is 25/25\u00b2 = 1/25. So g = 10/25 = 0.40 m/s\u00b2.",
+      "source_reference": "Quizzy original practice question \u2014 not NCERT-verified"
+    }
+  ]
+}
